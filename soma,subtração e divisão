@@ -1,0 +1,23 @@
+  void main () 
+{
+  //operação de soma
+  
+int zeus = 16;
+int orion = 20;
+int resultadosoma = zeus + orion;
+print(resultadosoma);
+  
+ //operação de subtração
+  
+int resultadoSubtracao = zeus - orion;  
+print(resultadoSubtracao); 
+  
+  //operação de divisão
+  
+double resultadodivisao = zeus / orion;
+print(resultadodivisao);
+  
+  
+  
+
+  }
